@@ -73,9 +73,9 @@ Want to know more about me? [Check out my portfolio.](https://sarathkurup.github
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css"/>
-  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Codepen"/>
-  <img src="https://vectorwiki.com/images/DLf1h__xamarin.svg" alt="Xamarin" width="65" height="65"/>
-  <img src="https://vectorwiki.com/images/kYNj1__blazor.svg" alt="Blazor" width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Codepen" width="70" height="70"/>
+  <img src="https://vectorwiki.com/images/DLf1h__xamarin.svg" alt="Xamarin" width="70" height="70"/>
+  <img src="https://vectorwiki.com/images/kYNj1__blazor.svg" alt="Blazor" width="70" height="70"/>
 </p>
 
 <br>
