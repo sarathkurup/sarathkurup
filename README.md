@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sarath</h1>
-<h3 align="center">A passionate Dot Net Fullstack Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkurup&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkurup" /> </p>
+<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
 
-[![Jason Lengstorf has a lot of ideas.](https://github.com/sarathkurup/sarathkurup/blob/main/Image1.png)](https://www.jason.af)
+I’m Sarath, a senior .Net full-stack engineer, creative coder, backend developer and specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
-
-I help dev tooling companies tell better stories and build stronger communities through [creative media and strategy consulting](https://lwj.dev/partners). For more information about me (and a whole lot of shenanigans), check out [jason.af](https://www.jason.af/).
-
-### I have been booped on the nose <!-- boop-counter -->39<!-- /boop-counter --> times.
-
-<small>You can boop my nose by running `npx boop-jasons-nose`. (I built this with.)</small>
+Want to know more about me? [Check out my portfolio.](https://sarathkurup.github.io/sarathkurup/)
 
 <br>
 
