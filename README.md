@@ -1,8 +1,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkurup&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkurup" /> </p>
-<img width="30%" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
-
+<table width="100%">
+  <tr>
+  <td width="50%"><img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
+  <td width="50%">
+    <h1 align="center">Hi <img width="3%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Sarath</h1>
+<h3 align="center">-- A Passionate .Net Fullstack Developer --</h3>
+    
+<br>
 I’m Sarath, a senior .Net full-stack engineer, creative coder, backend developer and specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 Want to know more about me? [Check out my portfolio.](https://sarathkurup.github.io/sarathkurup/)
+<br>
+  [![Linkedin Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@sarathkurup-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@sarathkurup.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+
+    
+  </tr>
+</table>
+
+
 
 <br>
 
