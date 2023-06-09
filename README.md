@@ -13,9 +13,7 @@ Want to know more about me? [Check out my portfolio.](https://sarathkurup.github
 <br><br>
     
   [![Linkedin Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarath-kurup/)](https://www.linkedin.com/in/sarath-kurup/)
-  [![Medium Badge](https://img.shields.io/badge/-sarathkurup-03a57a?style=flat-square&label&logo=Medium&link=#)](#)
   [![Gmail Badge](https://img.shields.io/badge/-@sarathkurup-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarathkurup87@gmail.com)](mailto:sarathkurup87@gmail.com)
-  [![Behance Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&label&logo=Behance&link=#)](#)
 
 </tr>
 </table>
