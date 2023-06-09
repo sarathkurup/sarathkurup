@@ -7,10 +7,10 @@
 <h3 align="center">-- A Passionate .Net Fullstack Developer --</h3>
     
 <br>
-    <p style="text-align: justify;">
-I’m Sarath, a senior .Net full-stack engineer, creative coder, backend developer and specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-Want to know more about me? [Check out my portfolio.](https://sarathkurup.github.io/sarathkurup/)
-  </p>
+<p align="justify">
+  I’m Sarath, a senior .Net full-stack engineer, creative coder, backend developer and specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+  Want to know more about me? [Check out my portfolio.](https://sarathkurup.github.io/sarathkurup/)
+</p>
     
 <br>
     
