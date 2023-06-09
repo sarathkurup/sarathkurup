@@ -3,7 +3,7 @@
   <tr>
   <td width="50%"><img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
   <td width="50%">
-    <h1 align="center">Hi <img width="3%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Sarath</h1>
+    <h1 align="center">Hi <img width="7%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, I'm Sarath</h1>
 <h3 align="center">-- A Passionate .Net Fullstack Developer --</h3>
     
 <br>
