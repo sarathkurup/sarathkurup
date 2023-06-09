@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkurup&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkurup" /> </p>
-<img style="max-width: 30%;" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
+<img width="30%" src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rp08ftaTCHZ5OumTn1ZdpJ1ILhuNTg2rCpOrFxvIpMH_jRog1f_vFXFnxC2RCI3arJ4XDYXEpxgoAhxTgtacPmwZP9mw=w1920-h919" alt="xamarin"/>
 
 I’m Sarath, a senior .Net full-stack engineer, creative coder, backend developer and specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 Want to know more about me? [Check out my portfolio.](https://sarathkurup.github.io/sarathkurup/)
