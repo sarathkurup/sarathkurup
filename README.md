@@ -12,15 +12,13 @@ Want to know more about me? [Check out my portfolio.](https://sarathkurup.github
 
 <br><br>
     
-  [![Linkedin Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
-  [![Medium Badge](https://img.shields.io/badge/-@sarathkurup-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-@sarathkurup.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
-  [![Behance Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+  [![Linkedin Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarath-kurup/)](https://www.linkedin.com/in/sarath-kurup/)
+  [![Medium Badge](https://img.shields.io/badge/-sarathkurup-03a57a?style=flat-square&label&logo=Medium&link=#)](#)
+  [![Gmail Badge](https://img.shields.io/badge/-@sarathkurup-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarathkurup87@gmail.com)](mailto:sarathkurup87@gmail.com)
+  [![Behance Badge](https://img.shields.io/badge/-sarathkurup-blue?style=flat-square&label&logo=Behance&link=#)](#)
 
 </tr>
 </table>
-
-<br>
 
 ## 💼 Skills:
 
@@ -40,8 +38,6 @@ Want to know more about me? [Check out my portfolio.](https://sarathkurup.github
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
-<br>
 
 ## Languages & Tools:
 <p align="left">
@@ -77,8 +73,6 @@ Want to know more about me? [Check out my portfolio.](https://sarathkurup.github
   <img src="https://vectorwiki.com/images/DLf1h__xamarin.svg" alt="Xamarin" width="70" height="70"/>
   <img src="https://vectorwiki.com/images/kYNj1__blazor.svg" alt="Blazor" width="70" height="70"/>
 </p>
-
-<br>
 
 ## 🔥My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarathkurup&theme=dark&background=000000)](https://git.io/streak-stats)
